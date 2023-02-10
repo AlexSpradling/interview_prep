@@ -555,9 +555,7 @@ $$
 So now we have:
 
 $$
-
 log(\frac{1}{1-p}) = \beta_0 + \beta_i X_1 \dots \beta_n X_n
-
 $$
 
 Where $p$ is the probability of $y$ equaling one. 
