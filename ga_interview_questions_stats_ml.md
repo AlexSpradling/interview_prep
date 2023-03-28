@@ -907,7 +907,6 @@ $$
 \textrm{Plug in the solved integrals...}\\
 \int x \ dx + 8 \int 1\  dx \\
 = \frac{x^2}{2} + 8
-
 \end{align*}
 $$
 
