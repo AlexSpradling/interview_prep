@@ -18,8 +18,7 @@ Some examples of supervised models:
 * naive bayes
 
 Some examples of un-supervised models:
-* k-means clustering
-* neural networks
+* clustering models
 
 ---
 
